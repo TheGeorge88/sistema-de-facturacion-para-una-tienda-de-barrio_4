@@ -1,0 +1,4 @@
+mysql-connector-python>=8.0.0
+reportlab>=3.6.0
+Pillow>=9.0.0
+python-dotenv>=1.0.0
